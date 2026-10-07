@@ -1,0 +1,49 @@
+{
+  "titre": "Le Comte de Monte-Cristo",
+  "duree_cible": [62, 65],
+  "personnages": {
+    "narrateur": {"nom": "Narrateur", "voix": "gilles", "hauteur": -3, "vitesse": 1.05, "effet": "salle", "couleur": "FFFFFF"},
+    "edmond": {"nom": "Edmond", "voix": "gilles", "hauteur": 1, "vitesse": 0.98, "effet": null, "couleur": "7FD4FF"},
+    "mercedes": {"nom": "Mercédès", "voix": "siwis", "hauteur": 0, "vitesse": 1.0, "effet": null, "couleur": "FF9EC7"},
+    "fernand": {"nom": "Fernand", "voix": "gilles", "hauteur": 4, "vitesse": 0.92, "effet": null, "couleur": "B6FF7F"},
+    "faria": {"nom": "Abbé Faria", "voix": "gilles", "hauteur": -6, "vitesse": 1.12, "effet": "cachot", "couleur": "FFD27F"},
+    "comte": {"nom": "Le Comte", "voix": "gilles", "hauteur": -5, "vitesse": 1.08, "effet": "comte", "couleur": "FF6B6B"}
+  },
+  "parties": [
+    {
+      "titre": "Partie 1/2 — La Trahison",
+      "fin": "Suite dans la partie 2…",
+      "repliques": [
+        ["narrateur", "Marseille, 1815. Edmond Dantès a dix-neuf ans, un navire, et demain… il épouse la femme qu'il aime."],
+        ["mercedes", "Edmond… promets-moi que rien ne pourra jamais nous séparer."],
+        ["edmond", "Rien, Mercédès. Ni la mer, ni le temps. Rien."],
+        ["narrateur", "Mais dans l'ombre, deux hommes l'observent. Fernand, qui aime Mercédès en secret. Et Danglars, jaloux de sa réussite."],
+        ["fernand", "Une lettre. Une seule lettre au procureur… et il disparaît pour toujours."],
+        ["narrateur", "Le jour des noces, les soldats enfoncent la porte."],
+        ["edmond", "Je n'ai rien fait ! Mercédès ! Mercédès !"],
+        ["narrateur", "Sans procès, sans avocat, Edmond est jeté au château d'If. Une forteresse sur un rocher, au milieu de la mer. Personne n'en ressort vivant."],
+        ["edmond", "Pourquoi… Qui m'a fait ça ?"],
+        ["narrateur", "Six ans passent. Six ans de silence. Puis une nuit… quelqu'un gratte le mur de sa cellule."],
+        ["faria", "N'ayez pas peur, mon fils. Je suis l'abbé Faria… et je sais qui vous a trahi."]
+      ]
+    },
+    {
+      "titre": "Partie 2/2 — La Vengeance",
+      "fin": "Fin.",
+      "repliques": [
+        ["narrateur", "Au château d'If, l'abbé Faria lui révèle la vérité."],
+        ["faria", "Fernand voulait ta fiancée. Danglars, ton navire. Et Villefort t'a enterré vivant pour sauver son père."],
+        ["edmond", "Ils m'ont tout pris…"],
+        ["faria", "Sur l'île de Monte-Cristo, un trésor t'attend. Il est à toi."],
+        ["narrateur", "Cette nuit-là, l'abbé meurt. Edmond prend sa place dans le sac… et les gardes le jettent à la mer. Edmond Dantès est mort. Le Comte de Monte-Cristo est né."],
+        ["comte", "Je suis l'instrument de la Providence. Et la Providence… n'oublie rien."],
+        ["narrateur", "Paris. Un à un, il les fait tomber. Danglars, ruiné. Villefort, démasqué. Fernand, déshonoré."],
+        ["mercedes", "Edmond… je t'ai reconnu au premier regard."],
+        ["comte", "Edmond est mort au château d'If, madame."],
+        ["mercedes", "Non. Il est là, devant moi. Et il souffre."],
+        ["narrateur", "Il croyait que la vengeance le guérirait. Il comprend enfin…"],
+        ["comte", "Toute la sagesse humaine tient en deux mots : attendre… et espérer."]
+      ]
+    }
+  ]
+}

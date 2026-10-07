@@ -1,0 +1,139 @@
+1
+00:00:00,400 --> 00:00:01,787
+Narrateur : Marseille, 1815.
+
+2
+00:00:01,787 --> 00:00:04,562
+Narrateur : Edmond Dantès a dix-neuf ans, un navire,
+
+3
+00:00:04,562 --> 00:00:05,603
+Narrateur : et demain…
+
+4
+00:00:05,603 --> 00:00:07,799
+Narrateur : il épouse la femme qu'il aime.
+
+5
+00:00:08,321 --> 00:00:08,811
+Mercédès : Edmond…
+
+6
+00:00:08,811 --> 00:00:10,448
+Mercédès : promets-moi que rien ne pourra jamais nous
+
+7
+00:00:10,448 --> 00:00:10,971
+Mercédès : séparer.
+
+8
+00:00:11,492 --> 00:00:13,155
+Edmond : Rien, Mercédès.
+
+9
+00:00:13,155 --> 00:00:15,397
+Edmond : Ni la mer, ni le temps.
+
+10
+00:00:15,397 --> 00:00:16,337
+Edmond : Rien.
+
+11
+00:00:16,858 --> 00:00:20,158
+Narrateur : Mais dans l'ombre, deux hommes l'observent.
+
+12
+00:00:20,158 --> 00:00:23,070
+Narrateur : Fernand, qui aime Mercédès en secret.
+
+13
+00:00:23,070 --> 00:00:25,852
+Narrateur : Et Danglars, jaloux de sa réussite.
+
+14
+00:00:26,373 --> 00:00:27,198
+Fernand : Une lettre.
+
+15
+00:00:27,198 --> 00:00:28,847
+Fernand : Une seule lettre au procureur…
+
+16
+00:00:28,847 --> 00:00:30,496
+Fernand : et il disparaît pour toujours.
+
+17
+00:00:31,017 --> 00:00:32,289
+Narrateur : Le jour des noces,
+
+18
+00:00:32,289 --> 00:00:34,198
+Narrateur : les soldats enfoncent la porte.
+
+19
+00:00:34,719 --> 00:00:35,682
+Edmond : Je n'ai rien fait !
+
+20
+00:00:35,682 --> 00:00:36,324
+Edmond : Mercédès !
+
+21
+00:00:36,324 --> 00:00:36,966
+Edmond : Mercédès !
+
+22
+00:00:37,487 --> 00:00:39,264
+Narrateur : Sans procès, sans avocat,
+
+23
+00:00:39,264 --> 00:00:41,418
+Narrateur : Edmond est jeté au château d'If.
+
+24
+00:00:41,418 --> 00:00:43,411
+Narrateur : Une forteresse sur un rocher,
+
+25
+00:00:43,411 --> 00:00:44,919
+Narrateur : au milieu de la mer.
+
+26
+00:00:44,919 --> 00:00:46,911
+Narrateur : Personne n'en ressort vivant.
+
+27
+00:00:47,432 --> 00:00:48,013
+Edmond : Pourquoi…
+
+28
+00:00:48,013 --> 00:00:48,868
+Edmond : Qui m'a fait ça ?
+
+29
+00:00:49,389 --> 00:00:50,720
+Narrateur : Six ans passent.
+
+30
+00:00:50,720 --> 00:00:52,217
+Narrateur : Six ans de silence.
+
+31
+00:00:52,217 --> 00:00:53,437
+Narrateur : Puis une nuit…
+
+32
+00:00:53,437 --> 00:00:55,987
+Narrateur : quelqu'un gratte le mur de sa cellule.
+
+33
+00:00:56,508 --> 00:00:58,497
+Abbé Faria : N'ayez pas peur, mon fils.
+
+34
+00:00:58,497 --> 00:01:00,194
+Abbé Faria : Je suis l'abbé Faria…
+
+35
+00:01:00,194 --> 00:01:02,300
+Abbé Faria : et je sais qui vous a trahi.

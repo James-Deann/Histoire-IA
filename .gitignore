@@ -1,0 +1,4 @@
+voix/*.onnx
+voix/*.onnx.json
+voix/MODEL_CARD
+__pycache__/
