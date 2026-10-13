@@ -1,0 +1,90 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Texte,Lilita One,84,&H00FFFFFF,&H00FFFFFF,&H00301A0B,&H64000000,0,0,0,0,100,100,1,0,1,7,3,5,70,70,0,1
+Style: Narration,Lilita One,84,&H00FFFFFF,&H00FFFFFF,&H00703010,&H64000000,0,0,0,0,100,100,1,0,1,7,3,5,70,70,0,1
+Style: Titre,Lilita One,78,&H00FFFFFF,&H00FFFFFF,&H002A3FD8,&H64000000,0,0,0,0,100,100,1,-2,1,8,4,8,50,50,215,1
+Style: Fin,Lilita One,76,&H0061C8FF,&H00FFFFFF,&H00301A0B,&H64000000,0,0,0,0,100,100,1,0,1,7,3,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:22.38,Titre,,0,0,0,,{\fad(400,0)}Pitchou – Épisode 1
+Dialogue: 2,0:01:20.38,0:01:22.38,Fin,,0,0,0,,{\pos(540,620)\fad(200,0)\fscx70\fscy70\t(0,120,\fscx100\fscy100)}PAIN AU CHOCOLAT\Nou CHOCOLATINE ?\N{\fs56\c&H00FFFFFF&}Réponds en commentaire !
+Dialogue: 1,0:00:00.50,0:00:01.71,Narration,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs84\c&H00FFFFFF&}Six heures du matin.
+Dialogue: 1,0:00:01.71,0:00:03.39,Narration,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs84\c&H00FFFFFF&}Dans une petite boulangerie de
+Dialogue: 1,0:00:03.39,0:00:05.16,Narration,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs84\c&H00FFFFFF&}Paris, une viennoiserie vient de
+Dialogue: 1,0:00:05.16,0:00:06.35,Narration,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs84\c&H00FFFFFF&}sortir du four.
+Dialogue: 1,0:00:06.35,0:00:06.85,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Coucou !
+Dialogue: 1,0:00:06.85,0:00:07.82,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Je m'appelle Pitchou,
+Dialogue: 1,0:00:07.82,0:00:08.67,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}et je suis un pain
+Dialogue: 1,0:00:08.67,0:00:09.35,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}au chocolat !
+Dialogue: 1,0:00:09.35,0:00:10.60,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Tout chaud, tout neuf !
+Dialogue: 1,0:00:10.60,0:00:11.04,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Bon.
+Dialogue: 1,0:00:11.04,0:00:12.18,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Je sais pas encore à
+Dialogue: 1,0:00:12.18,0:00:13.01,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}quoi ça sert,
+Dialogue: 1,0:00:13.01,0:00:14.14,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}un pain au chocolat.
+Dialogue: 1,0:00:14.14,0:00:15.28,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Mais j'en suis sûr :
+Dialogue: 1,0:00:15.28,0:00:16.68,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}c'est très important.
+Dialogue: 1,0:00:17.06,0:00:17.78,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Pardon ?
+Dialogue: 1,0:00:17.78,0:00:19.16,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Un pain au chocolat ?
+Dialogue: 1,0:00:19.16,0:00:20.55,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Oh, mon pauvre petit.
+Dialogue: 1,0:00:20.55,0:00:22.30,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Ici, on dit chocolatine.
+Dialogue: 1,0:00:22.30,0:00:22.73,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Hein ?!
+Dialogue: 1,0:00:22.73,0:00:23.09,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Mais…
+Dialogue: 1,0:00:23.09,0:00:24.00,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}t'es qui, toi ?
+Dialogue: 1,0:00:24.00,0:00:25.46,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Ta cousine de Toulouse,
+Dialogue: 1,0:00:25.46,0:00:26.22,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}mon chou.
+Dialogue: 1,0:00:26.22,0:00:27.78,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Même pâte, même chocolat.
+Dialogue: 1,0:00:27.78,0:00:29.57,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Mais moi, j'ai la classe.
+Dialogue: 1,0:00:29.57,0:00:30.47,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Mais si on est pareils…
+Dialogue: 1,0:00:30.47,0:00:31.50,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}alors je m'appelle comment,
+Dialogue: 1,0:00:31.50,0:00:32.07,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}moi ?
+Dialogue: 1,0:00:32.07,0:00:32.90,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Chocolatine.
+Dialogue: 1,0:00:32.90,0:00:33.97,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Répète après moi.
+Dialogue: 1,0:00:33.97,0:00:34.44,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Cho.
+Dialogue: 1,0:00:34.44,0:00:34.86,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Co.
+Dialogue: 1,0:00:34.86,0:00:35.28,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}La.
+Dialogue: 1,0:00:35.28,0:00:36.01,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Tine.
+Dialogue: 1,0:00:36.01,0:00:36.25,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Cho…
+Dialogue: 1,0:00:36.25,0:00:36.50,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}cho…
+Dialogue: 1,0:00:36.50,0:00:37.31,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}pain au chocolat !
+Dialogue: 1,0:00:37.31,0:00:38.28,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Non mais il le fait
+Dialogue: 1,0:00:38.28,0:00:39.44,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}exprès, ce petit !
+Dialogue: 1,0:00:39.82,0:00:41.27,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}Silence, les jeunes !
+Dialogue: 1,0:00:41.27,0:00:42.29,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}Il y en a qui
+Dialogue: 1,0:00:42.29,0:00:44.01,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}essaient de dormir dans la
+Dialogue: 1,0:00:44.01,0:00:44.98,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}vitrine.
+Dialogue: 1,0:00:44.98,0:00:46.08,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Monsieur Croissant !
+Dialogue: 1,0:00:46.08,0:00:47.30,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Vous savez tout, vous !
+Dialogue: 1,0:00:47.30,0:00:48.57,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}On dit pain au chocolat,
+Dialogue: 1,0:00:48.57,0:00:49.71,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}ou chocolatine ?
+Dialogue: 1,0:00:49.71,0:00:50.28,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}Hmm.
+Dialogue: 1,0:00:50.28,0:00:51.79,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}Mon petit, ce débat a
+Dialogue: 1,0:00:51.79,0:00:53.98,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}commencé bien avant ta naissance.
+Dialogue: 1,0:00:53.98,0:00:55.67,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}Il a brisé des familles.
+Dialogue: 1,0:00:55.67,0:00:56.68,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}Des amitiés.
+Dialogue: 1,0:00:56.68,0:00:58.70,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}Des repas de Noël entiers.
+Dialogue: 1,0:00:58.70,0:00:59.87,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Des repas de Noël ?!
+Dialogue: 1,0:00:59.87,0:01:02.46,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}Moi, on m'appelle croissant partout
+Dialogue: 1,0:01:02.46,0:01:03.47,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}en France.
+Dialogue: 1,0:01:03.47,0:01:05.56,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}Personne ne se dispute pour
+Dialogue: 1,0:01:05.56,0:01:06.41,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}moi.
+Dialogue: 1,0:01:06.41,0:01:06.93,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Normal.
+Dialogue: 1,0:01:06.93,0:01:08.16,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}Personne ne te choisit en
+Dialogue: 1,0:01:08.16,0:01:08.93,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00725CFF&}CHOCOLATINE\N{\fs84\c&H00FFFFFF&}premier.
+Dialogue: 1,0:01:08.93,0:01:09.76,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H00FFD79A&}M. CROISSANT\N{\fs84\c&H00FFFFFF&}Pardon ?!
+Dialogue: 1,0:01:10.14,0:01:10.48,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Bon.
+Dialogue: 1,0:01:10.48,0:01:11.56,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Je crois que j'ai compris.
+Dialogue: 1,0:01:11.56,0:01:12.37,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}C'est pas à moi de
+Dialogue: 1,0:01:12.37,0:01:13.33,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}choisir mon nom.
+Dialogue: 1,0:01:13.33,0:01:14.18,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}C'est à toi !
+Dialogue: 1,0:01:14.18,0:01:15.43,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Écris en commentaire :
+Dialogue: 1,0:01:15.43,0:01:17.18,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}pain au chocolat, ou chocolatine.
+Dialogue: 1,0:01:17.18,0:01:18.53,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}Le camp qui gagne décide
+Dialogue: 1,0:01:18.53,0:01:19.87,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}de mon nom pour toujours
+Dialogue: 1,0:01:19.87,0:01:20.40,Texte,,0,0,0,,{\pos(540,620)\fscx70\fscy70\t(0,90,\fscx100\fscy100)}{\fs50\c&H004DC2FF&}PITCHOU\N{\fs84\c&H00FFFFFF&}!

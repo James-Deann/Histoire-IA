@@ -1,0 +1,291 @@
+1
+00:00:00,500 --> 00:00:01,711
+Narrateur : Six heures du matin.
+
+2
+00:00:01,711 --> 00:00:03,387
+Narrateur : Dans une petite boulangerie de
+
+3
+00:00:03,387 --> 00:00:05,157
+Narrateur : Paris, une viennoiserie vient de
+
+4
+00:00:05,157 --> 00:00:06,135
+Narrateur : sortir du four.
+
+5
+00:00:06,355 --> 00:00:06,854
+Pitchou : Coucou !
+
+6
+00:00:06,854 --> 00:00:07,816
+Pitchou : Je m'appelle Pitchou,
+
+7
+00:00:07,816 --> 00:00:08,672
+Pitchou : et je suis un pain
+
+8
+00:00:08,672 --> 00:00:09,349
+Pitchou : au chocolat !
+
+9
+00:00:09,349 --> 00:00:10,382
+Pitchou : Tout chaud, tout neuf !
+
+10
+00:00:10,602 --> 00:00:11,040
+Pitchou : Bon.
+
+11
+00:00:11,040 --> 00:00:12,176
+Pitchou : Je sais pas encore à
+
+12
+00:00:12,176 --> 00:00:13,007
+Pitchou : quoi ça sert,
+
+13
+00:00:13,007 --> 00:00:14,143
+Pitchou : un pain au chocolat.
+
+14
+00:00:14,143 --> 00:00:15,280
+Pitchou : Mais j'en suis sûr :
+
+15
+00:00:15,280 --> 00:00:16,460
+Pitchou : c'est très important.
+
+16
+00:00:17,060 --> 00:00:17,777
+Chocolatine : Pardon ?
+
+17
+00:00:17,777 --> 00:00:19,162
+Chocolatine : Un pain au chocolat ?
+
+18
+00:00:19,162 --> 00:00:20,546
+Chocolatine : Oh, mon pauvre petit.
+
+19
+00:00:20,546 --> 00:00:22,084
+Chocolatine : Ici, on dit chocolatine.
+
+20
+00:00:22,304 --> 00:00:22,729
+Pitchou : Hein ?!
+
+21
+00:00:22,729 --> 00:00:23,090
+Pitchou : Mais…
+
+22
+00:00:23,090 --> 00:00:23,777
+Pitchou : t'es qui, toi ?
+
+23
+00:00:23,997 --> 00:00:25,462
+Chocolatine : Ta cousine de Toulouse,
+
+24
+00:00:25,462 --> 00:00:26,219
+Chocolatine : mon chou.
+
+25
+00:00:26,219 --> 00:00:27,785
+Chocolatine : Même pâte, même chocolat.
+
+26
+00:00:27,785 --> 00:00:29,350
+Chocolatine : Mais moi, j'ai la classe.
+
+27
+00:00:29,570 --> 00:00:30,475
+Pitchou : Mais si on est pareils…
+
+28
+00:00:30,475 --> 00:00:31,504
+Pitchou : alors je m'appelle comment,
+
+29
+00:00:31,504 --> 00:00:31,848
+Pitchou : moi ?
+
+30
+00:00:32,068 --> 00:00:32,905
+Chocolatine : Chocolatine.
+
+31
+00:00:32,905 --> 00:00:33,975
+Chocolatine : Répète après moi.
+
+32
+00:00:33,975 --> 00:00:34,440
+Chocolatine : Cho.
+
+33
+00:00:34,440 --> 00:00:34,859
+Chocolatine : Co.
+
+34
+00:00:34,859 --> 00:00:35,277
+Chocolatine : La.
+
+35
+00:00:35,277 --> 00:00:35,789
+Chocolatine : Tine.
+
+36
+00:00:36,009 --> 00:00:36,254
+Pitchou : Cho…
+
+37
+00:00:36,254 --> 00:00:36,499
+Pitchou : cho…
+
+38
+00:00:36,499 --> 00:00:37,086
+Pitchou : pain au chocolat !
+
+39
+00:00:37,306 --> 00:00:38,281
+Chocolatine : Non mais il le fait
+
+40
+00:00:38,281 --> 00:00:39,217
+Chocolatine : exprès, ce petit !
+
+41
+00:00:39,817 --> 00:00:41,269
+M. Croissant : Silence, les jeunes !
+
+42
+00:00:41,269 --> 00:00:42,291
+M. Croissant : Il y en a qui
+
+43
+00:00:42,291 --> 00:00:44,011
+M. Croissant : essaient de dormir dans la
+
+44
+00:00:44,011 --> 00:00:44,764
+M. Croissant : vitrine.
+
+45
+00:00:44,984 --> 00:00:46,080
+Pitchou : Monsieur Croissant !
+
+46
+00:00:46,080 --> 00:00:47,302
+Pitchou : Vous savez tout, vous !
+
+47
+00:00:47,302 --> 00:00:48,566
+Pitchou : On dit pain au chocolat,
+
+48
+00:00:48,566 --> 00:00:49,494
+Pitchou : ou chocolatine ?
+
+49
+00:00:49,714 --> 00:00:50,275
+M. Croissant : Hmm.
+
+50
+00:00:50,275 --> 00:00:51,792
+M. Croissant : Mon petit, ce débat a
+
+51
+00:00:51,792 --> 00:00:53,982
+M. Croissant : commencé bien avant ta naissance.
+
+52
+00:00:53,982 --> 00:00:55,667
+M. Croissant : Il a brisé des familles.
+
+53
+00:00:55,667 --> 00:00:56,678
+M. Croissant : Des amitiés.
+
+54
+00:00:56,678 --> 00:00:58,475
+M. Croissant : Des repas de Noël entiers.
+
+55
+00:00:58,695 --> 00:00:59,649
+Pitchou : Des repas de Noël ?!
+
+56
+00:00:59,869 --> 00:01:02,461
+M. Croissant : Moi, on m'appelle croissant partout
+
+57
+00:01:02,461 --> 00:01:03,472
+M. Croissant : en France.
+
+58
+00:01:03,472 --> 00:01:05,558
+M. Croissant : Personne ne se dispute pour
+
+59
+00:01:05,558 --> 00:01:06,190
+M. Croissant : moi.
+
+60
+00:01:06,410 --> 00:01:06,926
+Chocolatine : Normal.
+
+61
+00:01:06,926 --> 00:01:08,157
+Chocolatine : Personne ne te choisit en
+
+62
+00:01:08,157 --> 00:01:08,713
+Chocolatine : premier.
+
+63
+00:01:08,933 --> 00:01:09,542
+M. Croissant : Pardon ?!
+
+64
+00:01:10,142 --> 00:01:10,479
+Pitchou : Bon.
+
+65
+00:01:10,479 --> 00:01:11,557
+Pitchou : Je crois que j'ai compris.
+
+66
+00:01:11,557 --> 00:01:12,365
+Pitchou : C'est pas à moi de
+
+67
+00:01:12,365 --> 00:01:13,107
+Pitchou : choisir mon nom.
+
+68
+00:01:13,327 --> 00:01:14,178
+Pitchou : C'est à toi !
+
+69
+00:01:14,178 --> 00:01:15,433
+Pitchou : Écris en commentaire :
+
+70
+00:01:15,433 --> 00:01:17,182
+Pitchou : pain au chocolat, ou chocolatine.
+
+71
+00:01:17,182 --> 00:01:18,526
+Pitchou : Le camp qui gagne décide
+
+72
+00:01:18,526 --> 00:01:19,871
+Pitchou : de mon nom pour toujours
+
+73
+00:01:19,871 --> 00:01:20,185
+Pitchou : !
