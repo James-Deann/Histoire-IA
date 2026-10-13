@@ -1,0 +1,52 @@
+{
+  "titre": "Pitchou – Épisode 1",
+  "fin": "PAIN AU CHOCOLAT\\Nou CHOCOLATINE ?\\N{\\fs56\\c&H00FFFFFF&}Réponds en commentaire !",
+  "personnages": {
+    "narrateur": {"nom": "Narrateur", "voix": "gilles", "hauteur": -1, "vitesse": 0.93, "effet": "salle", "couleur": "FFFFFF"},
+    "pitchou": {"nom": "Pitchou", "voix": "siwis", "hauteur": 5, "vitesse": 0.88, "effet": null, "couleur": "FFC24D"},
+    "chocolatine": {"nom": "Chocolatine", "voix": "siwis", "hauteur": 0, "vitesse": 0.92, "effet": null, "couleur": "FF5C72"},
+    "croissant": {"nom": "M. Croissant", "voix": "gilles", "hauteur": -4, "vitesse": 1.0, "effet": null, "couleur": "9AD7FF"}
+  },
+  "scenes": [
+    {
+      "presents": ["pitchou"],
+      "repliques": [
+        ["narrateur", "normal", "Six heures du matin. Dans une petite boulangerie de Paris, une viennoiserie vient de sortir du four."],
+        ["pitchou", "content", "Coucou ! Je m'appelle Pitchou, et je suis un pain au chocolat ! Tout chaud, tout neuf !"],
+        ["pitchou", "normal", "Bon. Je sais pas encore à quoi ça sert, un pain au chocolat. Mais j'en suis sûr : c'est très important."]
+      ]
+    },
+    {
+      "presents": ["pitchou", "chocolatine"],
+      "repliques": [
+        ["chocolatine", "normal", "Pardon ? Un pain au chocolat ? Oh, mon pauvre petit. Ici, on dit chocolatine."],
+        ["pitchou", "choc", "Hein ?! Mais… t'es qui, toi ?"],
+        ["chocolatine", "content", "Ta cousine de Toulouse, mon chou. Même pâte, même chocolat. Mais moi, j'ai la classe.", {"reactions": {"pitchou": "normal"}}],
+        ["pitchou", "triste", "Mais si on est pareils… alors je m'appelle comment, moi ?"],
+        ["chocolatine", "normal", "Chocolatine. Répète après moi. Cho. Co. La. Tine."],
+        ["pitchou", "normal", "Cho… cho… pain au chocolat !"],
+        ["chocolatine", "colere", "Non mais il le fait exprès, ce petit !", {"reactions": {"pitchou": "content"}}]
+      ]
+    },
+    {
+      "presents": ["pitchou", "croissant", "chocolatine"],
+      "expressions": {"chocolatine": "colere"},
+      "repliques": [
+        ["croissant", "colere", "Silence, les jeunes ! Il y en a qui essaient de dormir dans la vitrine.", {"reactions": {"pitchou": "choc", "chocolatine": "normal"}}],
+        ["pitchou", "content", "Monsieur Croissant ! Vous savez tout, vous ! On dit pain au chocolat, ou chocolatine ?"],
+        ["croissant", "normal", "Hmm. Mon petit, ce débat a commencé bien avant ta naissance. Il a brisé des familles. Des amitiés. Des repas de Noël entiers."],
+        ["pitchou", "choc", "Des repas de Noël ?!"],
+        ["croissant", "content", "Moi, on m'appelle croissant partout en France. Personne ne se dispute pour moi."],
+        ["chocolatine", "content", "Normal. Personne ne te choisit en premier."],
+        ["croissant", "choc", "Pardon ?!", {"reactions": {"pitchou": "choc"}}]
+      ]
+    },
+    {
+      "presents": ["pitchou"],
+      "repliques": [
+        ["pitchou", "normal", "Bon. Je crois que j'ai compris. C'est pas à moi de choisir mon nom."],
+        ["pitchou", "content", "C'est à toi ! Écris en commentaire : pain au chocolat, ou chocolatine. Le camp qui gagne décide de mon nom pour toujours !"]
+      ]
+    }
+  ]
+}

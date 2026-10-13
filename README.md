@@ -1,5 +1,7 @@
 # Histoire IA : histoires TikTok multi-voix
 
+> 🥐 **Nouveau : la série animée [Pitchou](pitchou/README.md)** (pain au chocolat ou chocolatine ?), avec mascotte, stratégie TikTok et épisodes générés par `outils/animer.py`.
+
 Ce dépôt transforme un script d'histoire (`histoire.json`) en vidéos TikTok verticales :
 - **une voix par personnage**, avec synthèse vocale Piper hors ligne et des réglages de hauteur, de débit et d'effets ;
 - **une ambiance sonore dramatique** discrète ;
